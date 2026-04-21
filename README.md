@@ -58,8 +58,10 @@ college-website/
 ---
 
 ## 📸 Screenshots
-
+home page
 ![Alt Text](college_homepage.png)
+
+about page
 ![Alt Text](remaining_pages.png)
 
 ---
