@@ -60,7 +60,7 @@ college-website/
 ## 📸 Screenshots
 
 ![Alt Text](college_homepage.png)
-![Alt Text](Remaining_pages.png)
+![Alt Text](remaining_pages.png)
 
 ---
 
