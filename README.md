@@ -59,7 +59,8 @@ college-website/
 
 ## 📸 Screenshots
 
-*Add screenshots here (Home Page, Mobile View, etc.)*
+![Alt Text](college_homepage.png)
+![Alt Text](Remaining_pages.png)
 
 ---
 
