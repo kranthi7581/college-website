@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-🔗 https://animated-semifreddo-760235.netlify.app/
+🔗 https://college-website-jet-delta.vercel.app
 
 ---
 
